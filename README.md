@@ -10,7 +10,8 @@ pre-work we’ll begin what is going to turn into a photo gallery application.
 You’ll eventually have a fully-working website with users who can create galleries
 and upload images, but to begin we’ll need to create a small page to display some
 images. While making this page, please take your time and contact the instructors
-if you have any questions.
+if you have any questions. You can also access the
+[Metis online group chat](https://metis7.campfirenow.com/c2cd0).
 
 * [Part 1](part_1.md)
 * [Part 2](part_2.md)

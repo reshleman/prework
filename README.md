@@ -2,7 +2,7 @@
 
 Congratulations, and welcome to Metis! There is some work to be done before the
 first day of class. You’ll need to develop a small web page using HTML and CSS.
-The pre-work provided here will provide you with all of the knowledge you’ll need
+The pre-work will provide you with all of the knowledge you’ll need
 in order to start building your own web pages. We’ve broken the content of this
 packet up into 5 parts, and it is suggested you spend several hours with each
 section making sure you fully understand the content. Over the course of the

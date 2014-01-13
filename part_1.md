@@ -3,7 +3,7 @@
 ## Your Editor
 
 One of the first things you should decide on for development is a text editor.
-Your editor provides you will lots of benefits that will dramatically speed up
+Your editor provides you with lots of benefits that will dramatically speed up
 your ability to write code. It’s important to chose an editor that offers a good
 feature set. Unless you already have an editor with which you are proficient, we
 suggest using [Sublime Text][sublime_text]. You may not use Text Editor on

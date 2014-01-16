@@ -153,9 +153,7 @@ Make sure it’s public.
 Make sure “Initialize this respository with a README” is unchecked and click
 “Create repository”
 
-![GitHub Create Repository][github_create_repository]
-
-You’ll need to open “Terminal.app” on OSX or “Command Prompt” on Windows to
+You’ll need to open “Terminal.app” on OSX or “Terminal” on Ubuntu to
 perform the following steps. It is suggested you perform these steps in a
 specific directory. In your terminal, run:
 
@@ -203,5 +201,5 @@ If you feel comfortable with everything you learned in Part 1, please move on to
 [github_new_repository]: images/github_new_repository.png
 [github_new_repository_name]: images/github_new_repository_name.png
 [github_public_repo]: images/github_public_repo.png
-[github_create_repository]: images/github_create_repository.png
+[github_create_repository_instructions]: images/github_create_repository_instructions.jpg
 [part_2]: part_2.md

@@ -122,7 +122,7 @@ Select all paragraphs that have the class `orange`:
 
 Select `div`s with the `class` `left` and `id` `hero`:
 
-    p.left#hero { … }
+    div.left#hero { … }
 
 Select image tags that are inside a `div`:
 

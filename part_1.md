@@ -157,7 +157,7 @@ Make sure “Initialize this respository with a README” is unchecked and click
 
 You’ll need to open “Terminal.app” on OSX or “Command Prompt” on Windows to
 perform the following steps. It is suggested you perform these steps in a
-specific directory. In your terminal run:
+specific directory. In your terminal, run:
 
     cd ~
     mkdir metis_prework

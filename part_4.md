@@ -76,12 +76,9 @@ same border around them.
 You can add one or more `id`s and `class`es to any HTML tag like the following:
 
     <p class=’orange’>This paragraph has a class of ‘orange’.</p>
-    <p class=’orange left’>This paragraph has a class of ‘orange’ and a class of
-  ‘left’.</p>
+    <p class=’orange left’>This paragraph has a class of ‘orange’ and a class of ‘left’.</p>
     <h1 id=’logo’>This header has an id of ‘logo’</h1>
-    <div class=’orange’ id=’left-column’>
-  This div has a class of ‘orange’ and an id of ‘left-column’
-  </div>
+    <div class=’orange’ id=’left-column’>This div has a class of ‘orange’ and an id of ‘left-column’</div>
 
 In CSS, you can target any element with a `class` by using a period followed by
 the class name. Target elements with the `class` of `orange` like so:

@@ -141,6 +141,8 @@ standards for the web. Their website contains tools that validate your HTML and
 CSS documents against the standard. Upload your documents to the appropriate
 [HTML][html_validator] and [CSS][css_validator] validators to ensure correctness.
 
+When you are done; add, commit, and push all of your changes to GitHub.
+
 ## Moving on
 
 If you feel comfortable with everything you learned in Part 5, please move on to

@@ -182,6 +182,8 @@ paragraph text is `20px` tall. You should also see the size of your `h1` increas
 but it is much larger than `20px`. This is because the default `font-size` for an
 `h1` is `2em`, so it scales relative to the current font size.
 
+When you are done; add, commit, and push all of your changes to GitHub.
+
 ## Moving on
 
 If you feel comfortable with everything you learned in Part 4, please move on to

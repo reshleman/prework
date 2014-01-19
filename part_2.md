@@ -129,7 +129,7 @@ content that was already in those files. After you’ve changed all of the files
 commit them to GitHub.
 
     git add index.html breaks.html paragraphs.html
-    git commit -m ”Using proper HTML”
+    git commit -m "Using proper HTML"
     git push origin master
 
 You’ll notice that when using Git, you will use this workflow a lot: make a

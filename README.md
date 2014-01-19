@@ -32,6 +32,11 @@ about yourself as well as a picture and some ways of contacting you either via
 email or social network links. Use some CSS in an external file to make the page
 look nice. Make sure to validate your website.
 
+Create a git repo for your project and consistently commit and push your code to
+GitHub to ensure you do not lose your work. When you are proud of what you have
+made (most people never consider design work like this "finished") post a link to
+your GitHub repo in Campfire so that everyone can see it!
+
 ## More resources
 
 If you would like to learn more about HTML and CSS, here are some great

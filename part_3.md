@@ -88,8 +88,13 @@ have turned purple. This is because your browser keeps track of which links you
 have visited and makes them purple by default to represent they have been
 visited:
 
-
 ![Visited Link Demo][visited_link_demo]
+
+Commit your work and push to GitHub:
+
+    git add index.html cats.html
+    git commit -m "Link to cat gallery"
+    git push origin master
 
 ## Adding Images
 
@@ -131,6 +136,12 @@ saved the image to the correct folder.
 Your page should now look like:
 
 ![Gallery With Grumpy Cat Demo][gallery_with_grumpy_cat_demo]
+
+Commit your work and push to GitHub:
+
+    git add cats.html grumpy-cat.png
+    git commit -m "Add image to cat gallery"
+    git push origin master
 
 ## Viewing Source HTML
 
@@ -182,6 +193,9 @@ On the index page, organize your links to the dog and cat galleries into an
 unordered list. Your page should look like this:
 
 ![Gallery With Linked List Demo][gallery_with_linked_list_demo]
+
+Stage all of your changed files with `git add`, commit them, and push to GitHub.
+To see all of the files that you have changed, use `git status`.
 
 ## Moving on
 

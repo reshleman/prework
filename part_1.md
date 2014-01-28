@@ -6,10 +6,11 @@ One of the first things you should decide on for development is a text editor.
 Your editor provides you with lots of benefits that will dramatically speed up
 your ability to write code. It’s important to chose an editor that offers a good
 feature set. Unless you already have an editor with which you are proficient, we
-suggest using [Sublime Text][sublime_text]. You may not use Text Editor on
-Ubuntu or TextEdit.app on OSX. Spending a lot of time in your editor is a good
-way to become proficient. Feel free to read the [documentation on Sublime
-Text][sublime_text_documentation] to increase your understanding of the editor.
+suggest using [Sublime Text][sublime_text] (you can start with the free
+version). You may not use Text Editor on Ubuntu or TextEdit.app on OSX. Spending
+a lot of time in your editor is a good way to become proficient. Feel free to
+read the [documentation on Sublime Text][sublime_text_documentation] to increase
+your understanding of the editor.
 
 ## Your Terminal
 

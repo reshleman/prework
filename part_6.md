@@ -35,6 +35,7 @@ As you work through the [Learn to Program Book][learn_to_program] please commit 
 [interpreted_language]: http://en.wikipedia.org/wiki/Interpreted_language
 [oo]: http://en.wikipedia.org/wiki/Object-oriented_programming
 [matsumotosan]: http://en.wikipedia.org/wiki/Yukihiro_Matsumoto
+[dhh]: http://david.heinemeierhansson.com/
 [hello_world_program]: http://en.wikipedia.org/wiki/Hello_world_program
 [string]: http://en.wikipedia.org/wiki/String_(computer_science)
 [learn_to_program]: https://pine.fm/LearnToProgram/

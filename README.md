@@ -17,6 +17,7 @@ Campfire or via email if you have any questions.
 * [Part 3](part_3.md)
 * [Part 4](part_4.md)
 * [Part 5](part_5.md)
+* [Part 6](part_6.md)
 
 ## Typing
 

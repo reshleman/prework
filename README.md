@@ -42,6 +42,17 @@ look nice. Make sure to validate your website.
 Create a git repo for your project and consistently commit and push your code to
 GitHub to ensure you do not lose your work.
 
+## Optional: Vim
+
+Vim is a popular text editor for programming. While it is not required by any
+means, we find that once you get over the hurdle of learning it, you will be
+much more efficient when using it. If you want to start getting familiar with
+it before class starts, we recommend running `vimtutor` from the command line.
+It will take about 30 minutes to go through.
+
+We'll help you continue learning once class begins, but feel free to ping us if
+you can't wait for more.
+
 ## More resources
 
 If you would like to learn more about HTML and CSS, here are some great

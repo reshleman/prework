@@ -1,84 +1,35 @@
 # Metis Prework
 
 Congratulations, and welcome to Metis! There is some work to be done before the
-first day of class. You’ll need to develop a small web page using HTML and CSS.
-The pre-work will provide you with all of the knowledge you’ll need
-in order to start building your own web pages. We’ve broken the content of this
-packet up into 5 parts, and it is suggested you spend several hours with each
-section making sure you fully understand the content. Over the course of the
-pre-work we’ll begin what is going to turn into a photo gallery application.
-You’ll eventually have a fully-working website with users who can create galleries
-and upload images, but to begin we’ll need to create a small page to display some
-images. While making this page, please take your time and contact the instructors in
-Campfire or via email if you have any questions.
+first day of class. Over the course of the prework, you'll build an HTML page,
+read a book about Ruby, and write some Ruby programs. Please keep the
+instructors up to date with your progress in Campfire, and let us know if you
+have any questions.
 
-* [Part 1](part_1.md)
-* [Part 2](part_2.md)
-* [Part 3](part_3.md)
-* [Part 4](part_4.md)
-* [Part 5](part_5.md)
-* [Part 6](part_6.md)
-
-## Campfire
-
-We will be using Campfire extensively throughout the class. While you are
-welcome to use the web interface, we strongly prefer using other clients to get the
-most out of Campfire.
-
-[Flint (OS X)](http://giantcomet.com/flint/mac/) is our favorite. It's $8 in the Mac
-App store.
-
-[Propane (OS X)](http://propaneapp.com/) is free to try, but will prompt you to buy it
-regularly unless you pay $20.
-
-[Kindling (Web)](https://chrome.google.com/webstore/detail/kindling-for-campfire/abnakpmgckdkcpgbcejajjbllagggcif?hl=en-US)
-is an extension for Chrome. If you are not on OS X you should try this.
-
-## Typing
-
-You are going to be doing a lot of typing in this class and beyond. We expect
-everybody coming into the class to be able to type at least 50 words/minute
-without looking at the keyboard. Please [test your typing
-speed](http://typeonline.co.uk/typingspeed.php). If you are below 50 wpm,
-practice touch typing with [keybr](http://www.keybr.com/) or
-[typing.io](http://typing.io/lesson/ruby/rails/relation.rb/1).
-
-## Project
-
-When you have finished the above tutorials, complete the following project on
-your own. Feel free to use the Campfire room to get help from you teachers and
-peers.
-
-Create a business card website for yourself. You’ll want to have a paragraph
-about yourself as well as a picture and some ways of contacting you either via
-email or social network links. Use some CSS in an external file to make the page
-look nice. Make sure to validate your website.
-
-Create a git repo for your project and consistently commit and push your code to
-GitHub to ensure you do not lose your work.
-
-## Optional: Vim
-
-Vim is a popular text editor for programming. While it is not required by any
-means, we find that once you get over the hurdle of learning it, you will be
-much more efficient when using it. If you want to start getting familiar with
-it before class starts, we recommend running `vimtutor` from the command line.
-It will take about 30 minutes to go through.
-
-We'll help you continue learning once class begins, but feel free to ping us if
-you can't wait for more.
+1. [Campfire](campfire.md): about 5 minutes
+1. [Typing](typing.md): 2 minutes or more (depends on your typing proficiency)
+1. [The Terminal](the_terminal.md): about 1 hour
+1. [Git](git.md): about 1 hour
+1. [Dotfiles](dotfiles.md): about 30 minutes
+1. [Learn Vim](learn_vim.md): about 30 minutes
+1. [Basic HTML](basic_html.md): about 1 hour
+1. [Intermediate HTML](intermediate_html.md): about 1 hour
+1. [Basic CSS](basic_css.md): about 1 hour
+1. [Intermediate CSS](intermediate_css.md): about 1 hour
+1. [Personal Website](personal_website.md): about 4 hours
+1. [Learn Ruby](learn_ruby.md): about 20 hours
 
 ## More resources
 
 If you would like to learn more about HTML and CSS, here are some great
 resources to continue learning until class begins:
 
-* [A Beginner’s Guide To HTML & CSS][shay_howe_site]: A more in depth guide to
+* [A Beginner’s Guide To HTML & CSS]: A more in depth guide to
 learning HTML & CSS. Covers many subjects we did not cover in the pre-work
-* [W3Schools CSS Properties][w3schools_css_properties]: A list of available CSS
+* [W3Schools CSS Properties]: A list of available CSS
 properties
-* [W3Schools CSS Selectors][w3schools_css_selectors]: A list of CSS selector patterns
+* [W3Schools CSS Selectors]: A list of CSS selector patterns
 
-[shay_howe_site]: http://learn.shayhowe.com/html-css/
-[w3schools_css_properties]: http://www.w3schools.com/cssref/default.asp
-[w3schools_css_selectors]: http://www.w3schools.com/cssref/css_selectors.asp
+[A Beginner’s Guide To HTML & CSS]: http://learn.shayhowe.com/html-css/
+[W3Schools CSS Properties]: http://www.w3schools.com/cssref/default.asp
+[W3Schools CSS Selectors]: http://www.w3schools.com/cssref/css_selectors.asp

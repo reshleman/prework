@@ -1,4 +1,4 @@
-# Part 4
+# Basic CSS
 
 Now that we have a few pages of content, the site is starting to look a little
 bland. Our pages are all black and white, with the default fonts and link
@@ -181,12 +181,6 @@ but it is much larger than `20px`. This is because the default `font-size` for a
 
 When you are done; add, commit, and push all of your changes to GitHub.
 
-## Moving on
-
-If you feel comfortable with everything you learned in Part 4, please move on to
-[Part 5][part_5].
-
 [magenta_header]: images/magenta_header.png
 [w3schools_css_selectors]: http://www.w3schools.com/cssref/css_selectors.asp
 [green_gallery_links]: images/green_gallery_links.png
-[part_5]: part_5.md

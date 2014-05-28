@@ -1,4 +1,4 @@
-# Part 5
+# Intermediate CSS
 
 ## The Box Model
 
@@ -143,15 +143,9 @@ CSS documents against the standard. Upload your documents to the appropriate
 
 When you are done; add, commit, and push all of your changes to GitHub.
 
-## Moving on
-
-If you feel comfortable with everything you learned in Part 5, please move on to
-[the project][the_project].
-
 [box_model]: images/box_model.png
 [colonel_meow]: images/colonel_meow.jpg
 [two_cat_gallery]: images/two_cat_gallery.png
 [floated_two_cat_gallery]: images/floated_two_cat_gallery.png
 [html_validator]: http://validator.w3.org/#validate_by_upload
 [css_validator]: http://jigsaw.w3.org/css-validator/#validate_by_upload
-[the_project]: README.md#project

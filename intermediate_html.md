@@ -1,4 +1,4 @@
-# Part 3
+# Intermediate HTML
 
 Previously in our HTML we used a couple of tags: `<p>`, `<b>`, and `<i>`. You
 may have noticed that when you use `<p>` tags the content is split up:
@@ -197,11 +197,6 @@ unordered list. Your page should look like this:
 Stage all of your changed files with `git add`, commit them, and push to GitHub.
 To see all of the files that you have changed, use `git status`.
 
-## Moving on
-
-If you feel comfortable with everything you learned in Part 3, please move on to
-[Part 4][part_4].
-
 [paragraphs_demo]: images/paragraphs_demo.png
 [bolded_and_italicized_demo]: images/bolded_and_italicized_demo.png
 [gallery_demo]: images/gallery_demo.png
@@ -213,4 +208,3 @@ If you feel comfortable with everything you learned in Part 3, please move on to
 [gallery_with_grumpy_cat_demo]: images/gallery_with_grumpy_cat_demo.png
 [shibe]: images/shibe.png
 [gallery_with_linked_list_demo]: images/gallery_with_linked_list_demo.png
-[part_4]: part_4.md

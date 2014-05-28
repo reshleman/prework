@@ -1,4 +1,4 @@
-# Part 2
+# Basic HTML
 
 Your first step into learning web development is to learn HTML. HTML stands for
 HyperText Markup Language and while this sounds like a complicated term it’s a
@@ -136,12 +136,6 @@ You’ll notice that when using Git, you will use this workflow a lot: make a
 small change, add the files, commit them, and then push them to a remote
 repository. For additional Git practice, you can try http://try.github.io/.
 
-## Moving on
-
-If you feel comfortable with everything you learned in Part 2, please move on to
-[Part 3][part_3].
-
 [part_1]: part_1.md
 [paragraphs_html]: images/paragraphs_html.png
 [breaks_html]: images/breaks_html.png
-[part_3]: part_3.md

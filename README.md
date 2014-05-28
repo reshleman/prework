@@ -22,16 +22,16 @@ Campfire or via email if you have any questions.
 ## Campfire
 
 We will be using Campfire extensively throughout the class. While you are
-welcome to use the web interface, we prefer using native OS X clients to get the
+welcome to use the web interface, we strongly prefer using other clients to get the
 most out of Campfire.
 
-[Flint](http://giantcomet.com/flint/mac/) is our favorite. It's $8 in the Mac
+[Flint (OS X)](http://giantcomet.com/flint/mac/) is our favorite. It's $8 in the Mac
 App store.
 
-[Propane](http://propaneapp.com/) is free to try, but will prompt you to buy it
+[Propane (OS X)](http://propaneapp.com/) is free to try, but will prompt you to buy it
 regularly unless you pay $20.
 
-[Kindling](https://chrome.google.com/webstore/detail/kindling-for-campfire/abnakpmgckdkcpgbcejajjbllagggcif?hl=en-US)
+[Kindling (Web)](https://chrome.google.com/webstore/detail/kindling-for-campfire/abnakpmgckdkcpgbcejajjbllagggcif?hl=en-US)
 is an extension for Chrome. If you are not on OS X you should try this.
 
 ## Typing

@@ -126,7 +126,7 @@ purposes:
 * Browsers for the blind
 
 Let’s add an image to our existing cats gallery page. Download the following
-image into the directory you saved image.html to by right clicking it and
+image into the directory you saved index.html to by right clicking it and
 selecting `Save as...`. You should be able to use what you’ve learned to get the
 image to display on the HTML page. If the image does not display, be sure you
 saved the image to the correct folder.
